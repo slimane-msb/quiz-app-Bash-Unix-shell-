@@ -70,11 +70,8 @@ h. Ajouter des commentaires
 
 i. Tester le code et corriger les erreurs 
 
-# 7. Sources de documentation et remerciements :
+# 7.  remerciements :
  
-a. Les sources utiliser dans ce projet sont les cours magistrales de l’année en cours, ainsi 
-que les notes des cours et des TP, faites par le prof pendant les séances de TP et cours. 
- 
-b. Remerciements : Je tiens à remercier mes deux professeurs (du cours et du TP), pour le 
+Je tiens à remercier mes deux professeurs (du cours et du TP), pour le 
 soutien qu’ils m’ont apporté dans la réalisation du projet, par toutes les explications, et 
 les idées cites dans les consignes.
